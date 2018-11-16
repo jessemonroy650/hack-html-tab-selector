@@ -1,0 +1,13 @@
+* {margin:0;padding:0;}
+.height100percent {height:100%}
+.height80percent {height:80%}
+.height73percent {height:73%}
+.heightTheBalance {height:71.5%}
+.height20percent {height:20%}
+.hidden {visibility:collapse;display:none;}
+.expose {visibility:visible;display:block;} /* Here for completeness only. */
+.spacer {clear:both;}
+.thinBorder {border:1px solid grey}
+
+/* The image we capture */
+#theImage {margin:0;padding:0;}

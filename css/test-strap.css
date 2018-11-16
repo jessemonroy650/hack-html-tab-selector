@@ -1,0 +1,14 @@
+/*
+
+*/
+h2 {text-align:center;}
+img {float:right; padding:5px; width:48px;}
+#test {text-align:center;margin:0.5em 0;padding:0.2em 0;}
+
+/* NOT USED - Requires research-time to optimize reflow */
+/*
+.tabBorderSelected {
+border-top:3px solid black;border-left:1px solid black;border-right:3px solid black;border-bottom:none;
+border-top-style:inset;    border-left-style:inset;    border-right-style:inset;    border-bottom-style:none;
+}
+*/
