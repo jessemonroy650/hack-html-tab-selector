@@ -1,9 +1,10 @@
 * {margin:0;padding:0;}
-.height100percent {height:100%}
+.height100percent {height:100%;}
 .height80percent {height:80%}
 .height73percent {height:73%}
-.heightTheBalance {height:71.5%}
-.height20percent {height:20%}
+/* Solution #2 https://www.whitebyte.info/programming/css/how-to-make-a-div-take-the-remaining-height */
+.heightTheBalance {position: absolute;top: 20%;bottom: 0;width:100%}
+.height20percent {height:20%;}
 .hidden {visibility:collapse;display:none;}
 .expose {visibility:visible;display:block;} /* Here for completeness only. */
 .spacer {clear:both;}
