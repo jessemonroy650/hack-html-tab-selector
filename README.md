@@ -5,8 +5,8 @@ The app has a header (with height:20%) then two columns that need to be filled. 
 
 Filling the balance of the `viewport` was accomplished with this *CSS class*
 
-  /* USED Solution #2 https://www.whitebyte.info/programming/css/how-to-make-a-div-take-the-remaining-height */
-  .heightTheBalance {position: absolute;top: 20%;bottom: 0;width:100%}
+    /* USED Solution #2 https://www.whitebyte.info/programming/css/how-to-make-a-div-take-the-remaining-height */
+    .heightTheBalance {position: absolute;top: 20%;bottom: 0;width:100%}
 
 ## Files
 
@@ -19,8 +19,8 @@ Filling the balance of the `viewport` was accomplished with this *CSS class*
 
 ### References
 
-How to make a div take the remaining height -- WhiteByte
-https://www.whitebyte.info/programming/css/how-to-make-a-div-take-the-remaining-height
+**How to make a div take the remaining height &mdash; WhiteByte**
+* https://www.whitebyte.info/programming/css/how-to-make-a-div-take-the-remaining-height
 
-How to Fill Remaining Height with a Div | rajeesh
-http://rajeeshcv.com/2015/05/08/How-to-Fill-Remaining-Height-with-a-Div/
+**How to Fill Remaining Height with a Div | rajeesh**
+* http://rajeeshcv.com/2015/05/08/How-to-Fill-Remaining-Height-with-a-Div/
