@@ -3,17 +3,20 @@
 #6D80A9	 #324330  #557069  #94BBB8  #B5C7C5
 #5986BF  #1B4554  #255C7E  #5396A9  #9BA7AD
 */
+/* Solution #2 https://www.whitebyte.info/programming/css/how-to-make-a-div-take-the-remaining-height */
+.heightTheBalance {position: absolute;top: 20%;bottom: 0;width:100%}
+
+#theTabSelector {}
+.theTabSelector {width:100%;margin:0;padding:0;text-align:center;font-size:large;}
+
+#tab1 {background-color:#5396A9;}
+#tab2 {background-color:#9BA7AD;}
 /* This is for Firefox desktop browsers. --> button::-moz-focus-inner {border: 0; }
    Some require `button {outline:0;}` 
    See: https://css-tricks.com/removing-the-dotted-outline/
 */
-#theTabSelector {}
-.theTabSelector {width:100%;margin:0;padding:0;text-align:center;font-size:large;}
-
 button {outline:0;} /* required for Android webview */
-#tab1 {background-color:#5396A9;}
-#tab2 {background-color:#9BA7AD;}
-.tab::-moz-focus-inner {border: 0; } /* required for Firefox desktop */
+.tab::-moz-focus-inner {border: 0; } /* required for Firefox desktop to remove 'focus' outline */
 .tab  {width:50%; line-height:2em;font-size:large;cursor:pointer;}
 .tabRadius {border-top-left-radius:0.5em;border-top-right-radius:0.5em;}
 .tabBorder {border-top:1px solid black;border-right:1px solid black;border-left:none;border-bottom: none;}
