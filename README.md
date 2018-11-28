@@ -1,12 +1,15 @@
 # html-tab-selector
 This tab-selector interface using just HTML, CSS & Javascript &mdash; no library
 
-The app has a header (with height:20%) then two columns that need to be filled. SOLVED
+The app has a header (with `height:20%`) then two columns that need to be filled.
 
 Filling the balance of the `viewport` was accomplished with this *CSS class*
 
     /* USED Solution #2 https://www.whitebyte.info/programming/css/how-to-make-a-div-take-the-remaining-height */
     .heightTheBalance {position: absolute;top: 20%;bottom: 0;width:100%}
+
+[Github blog](https://github.com/jessemonroy650/html-tab-selector/blob/master/blog.md) &diam;
+[Wordpress blog]()
 
 ## Files
 
