@@ -1,5 +1,5 @@
-# hack-html-tab-selector
-A hack of a tab-selector interface using just HTML, CSS & Javascript &mdash; no library
+# html-tab-selector
+This tab-selector interface using just HTML, CSS & Javascript &mdash; no library
 
 The app has a header (with height:20%) then two columns that need to be filled. SOLVED
 

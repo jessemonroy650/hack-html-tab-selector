@@ -30,8 +30,3 @@ The javascript code is simple enough. When a tab (or button) is triggered, the c
 
 **TRICK** Adding the `hidden` class before removing the `hidden` class on the other tab allows the layout engine to reduce the "reflow". However, this may be just for the browers I am working with.
 
-
-
-
-
-
