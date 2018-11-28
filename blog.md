@@ -2,7 +2,7 @@
 
 This rather fancy-looking interface requires HTML5, a CSS3 layout trick, and a few lines of javascript.
 
-[README.md](https://github.com/jessemonroy650/html-tab-selector/blob/master/README.md)  &diam;
+[README.md](https://github.com/jessemonroy650/html-tab-selector/blob/master/README.md)  &diams;
 [Wordpress blog]()
 
 ## The HTML and CSS ##

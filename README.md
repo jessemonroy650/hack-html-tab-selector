@@ -8,7 +8,7 @@ Filling the balance of the `viewport` was accomplished with this *CSS class*
     /* USED Solution #2 https://www.whitebyte.info/programming/css/how-to-make-a-div-take-the-remaining-height */
     .heightTheBalance {position: absolute;top: 20%;bottom: 0;width:100%}
 
-[Github blog](https://github.com/jessemonroy650/html-tab-selector/blob/master/blog.md) &diam;
+[Github blog](https://github.com/jessemonroy650/html-tab-selector/blob/master/blog.md) &diams;
 [Wordpress blog]()
 
 ## Files
